@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a fourth year ECE Ph.D. student at NYU Wireless Lab, advised by Prof. Yong Liu. My Research interest includes Federated Learning, Distributed ML as well as Recommendation System.\\
+Hi! I’m a fourth year ECE Ph.D. student at NYU, ECE Department, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a>, advised by Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My Research interest includes **Federated Learning**, **Distributed ML** as well as **Recommendation System**.\\
 <span style="color:darkred">**I am currently seeking a Summer 2025 internship. Please feel free to reach out if you have any open positions!**</span>
 
 Publication
@@ -50,6 +50,6 @@ May. 2023 – Aug. 2023
 Project: **Federated Learning Come Across With Label Noise Learning**\\
 Sep. 2019 - Jan. 2020
 
-* ***Research Assistant***, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> \\
+* ***Research Assistant***, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**NYU Wireless Lab**</a> \\
 Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>\\
 Sep. 2021 - Present
