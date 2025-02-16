@@ -50,6 +50,3 @@ May. 2023 – Aug. 2023
 Project: **Federated Learning Come Across With Label Noise Learning**\\
 Sep. 2019 - Jan. 2020
 
-* ***Research Assistant***, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**NYU Wireless Lab**</a> \\
-Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>\\
-Sep. 2021 - Present
