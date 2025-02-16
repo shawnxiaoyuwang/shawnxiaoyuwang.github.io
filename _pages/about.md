@@ -34,7 +34,6 @@ Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="c
 Sep. 2021 - Present
 
 - **B.S.** in EEIS, <a href="https://eeis.ustc.edu.cn/main.htm" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> \\
-Advisor: Prof. <a href="http://staff.ustc.edu.cn/~xinmei/advisor.html" style="color: #009B8B; text-decoration:none">**Xinmei Tian**</a> \\
 Sep. 2015 - June. 2019
 
 Experience
