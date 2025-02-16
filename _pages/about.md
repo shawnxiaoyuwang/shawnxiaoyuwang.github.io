@@ -43,7 +43,7 @@ Project: **Dynamic Hybrid Vertical Federated Learning**\\
 Oct. 2023 - Dec. 2023
 
 * ***Research Engineering Intern***, <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a> \\
-Project: **AWS-Sparse Vertical Federated Learning platform and Hybrid VFL**\\
+Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**\\
 May. 2023 – Aug. 2023
 
 * ***Machine Learning Intern***, <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> \\
