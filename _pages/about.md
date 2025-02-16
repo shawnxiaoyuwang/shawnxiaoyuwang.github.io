@@ -13,9 +13,9 @@ Hi! I’m a fourth year ECE Ph.D. student at NYU Wireless Lab, advised by Prof. 
 Publication
 ------
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
-- **Decentralized Federated Learning with Model Caching on Mobile Agents** \\
-<u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu \\
+- **Decentralized Federated Learning with Model Caching on Mobile Agents**
 <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/ShawnXiaoyuWang/Cached-DFL" style="color: #009B8B; text-decoration: none;">[code]</a> \\
+<u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu \\
 <span style="color:darkred">**AAAI**</span> 2025, <span style="color:red">_Oral Presentation_</span> (acceptance = 600 / 12,957 = 4.6%)
 
 - **Predictive edge caching through deep mining of sequential patterns in user content retrievals** \\
@@ -24,7 +24,7 @@ Chen Li, <u>Xiaoyu Wang</u>, Tongyu Zong, Houwei Cao, Yong Liu \\
 
 Preprints
 ------
-- **Decentralized Federated Learning with Model Caching on Mobile Agents** \\
+- **Decentralized Federated Learning with Model Caching on Mobile Agents** 
 <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu
 
