@@ -17,7 +17,7 @@ Publication
 <u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu \\
 <span style="color:darkred">**AAAI**</span> 2025, <span style="color:red">_Oral Presentation_</span> (acceptance = 600 / 12,957 = 4.6%), <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/ShawnXiaoyuWang/Cached-DFL" style="color: #009B8B; text-decoration: none;">[code]</a>
 
-- **Predictive edge caching through deep mining of sequential patterns in user content retrievals** \\
+- **Predictive Edge Caching through Deep Mining of Sequential Patterns in User Content Retrievals** \\
 Chen Li, <u>Xiaoyu Wang</u>, Tongyu Zong, Houwei Cao, Yong Liu \\
 <span style="color: #3700FF">**Computer Networks**</span> 2023, <a href="https://arxiv.org/abs/2210.02657" style="color: #009B8B; text-decoration: none;">[paper]</a>
 
@@ -30,10 +30,11 @@ Preprints
 Education
 ------
 - **Ph.D.** in Electrical and Computer Engineering, <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> \\
-advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a> \\
+Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a> \\
 Sep. 2021 - Present
 
-- **B.S.** in EE, <a href="https://en.ustc.edu.cn/" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> \\
+- **B.S.** in EEIS, <a href="https://eeis.ustc.edu.cn/main.htm" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> \\
+Advisor: Prof. <a href="http://staff.ustc.edu.cn/~xinmei/advisor.html" style="color: #009B8B; text-decoration:none">**Xinmei Tian**</a> \\
 Sep. 2015 - June. 2019
 
 Experience
