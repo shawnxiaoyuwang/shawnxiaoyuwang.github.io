@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a fourth year ECE Ph.D. student at NYU Wireless Lab, advised by Prof. Yong Liu. My Research interest includes Federated Learning, Distributed ML as well as Recommendation System.
-<span style="color:darkred">**Currently I am actively seeking for Internship 2025 Summer. Feel free to reachout me!**</span>
+Hi! I’m a fourth year ECE Ph.D. student at NYU Wireless Lab, advised by Prof. Yong Liu. My Research interest includes Federated Learning, Distributed ML as well as Recommendation System.\\
+<span style="color:darkred">**I am currently seeking a Summer 2025 internship. Please feel free to reach out if you have any open positions!**</span>
 
 Publication
 ------
