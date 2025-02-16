@@ -40,13 +40,13 @@ Sep. 2015 - June. 2019
 Experience
 ------
 * ***Research Engineering Intern***, <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**(Remote)</a> \\
-Project: **Dynamic Hybrid Vertical Federated Learning**</a>, Oct. 2023 - Dec. 2023
+Project: **Dynamic Hybrid Vertical Federated Learning**, Oct. 2023 - Dec. 2023
 
 * ***Research Engineering Intern***, <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a> \\
-Project: **AWS-Sparse Vertical Federated Learning platform and Hybrid VFL**</a>, May. 2023 – Aug. 2023
+Project: **AWS-Sparse Vertical Federated Learning platform and Hybrid VFL**, May. 2023 – Aug. 2023
 
 * ***Machine Learning Intern***, <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> \\
-Project: **Federated Learning Come Across With Label Noise Learning**</a>, Sep. 2019 - Jan. 2020
+Project: **Federated Learning Come Across With Label Noise Learning**, Sep. 2019 - Jan. 2020
 
 * ***Research Assistant***, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> \\
 Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>, Sep. 2021 - Present
