@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a fourth year ECE Ph.D. student at <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a>, <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a>, advised by Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My Research interest includes **Federated Learning**, **Distributed ML** as well as **Recommendation System**.\\
-<span style="color:darkred">**I am currently seeking for 2025 summer internship. Feel free to reach out if you have any open positions!**</span>
+Hi! I’m a fourth-year Ph.D. student in Electrical and Computer Engineering at <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> working in the <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> under the supervision of Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My research focuses on **Federated Learning**, **Multimodal Learning** as well as **Recommender Systems**.\\
+<span style="color:darkred">**I am currently seeking a summer 2025 internship. Feel free to reach out if you have any opportunities!**</span>
 
 Publication
 ------
