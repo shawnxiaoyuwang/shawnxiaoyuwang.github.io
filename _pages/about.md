@@ -43,7 +43,7 @@ Experience
 * Project: **Dynamic Hybrid Vertical Federated Learning**
 
 ***Research Engineering Intern*** \\
-<a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a> | May. 2023 – Aug. 2023\\
+<a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a>. | May. 2023 – Aug. 2023\\
 * Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
 
 ***Machine Learning Intern*** \\
