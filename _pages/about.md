@@ -38,16 +38,16 @@ Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="c
 
 Experience
 ------
-***Research Engineering Intern***(Remote)\\
+***Research Engineering Intern*** (Remote)\\
 <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a>. | Oct. 2023 - Dec. 2023\\
-- Project: **Dynamic Hybrid Vertical Federated Learning**
+Project: **Dynamic Hybrid Vertical Federated Learning**
 
 ***Research Engineering Intern*** \\
 <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a>. | May. 2023 – Aug. 2023\\
-- Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
+Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
 
 ***Machine Learning Intern*** \\
 <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> | Sep. 2019 - Jan. 2020\\
-- Project: **Federated Learning Come Across With Label Noise Learning**
+Project: **Federated Learning Come Across With Label Noise Learning**
 
 
