@@ -29,24 +29,25 @@ Preprints
 
 Education
 ------
-- **Ph.D.** in Electrical and Computer Engineering, <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> \\
+**Ph.D.** in Electrical and Computer Engineering\\
 Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a> \\
-Sep. 2021 - Present
+<a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> | Sep. 2021 - Present
 
-- **B.S.** in EEIS, <a href="https://eeis.ustc.edu.cn/main.htm" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> \\
-Sep. 2015 - June. 2019
+**B.S.** in Electrical Engineering and Information Science\\
+<a href="https://eeis.ustc.edu.cn/main.htm" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> | Sep. 2015 - June. 2019
 
 Experience
 ------
-* ***Research Engineering Intern***, <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**(Remote)</a> \\
-Project: **Dynamic Hybrid Vertical Federated Learning**\\
-Oct. 2023 - Dec. 2023
+***Research Engineering Intern***(Remote)\\
+<a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a>. | Oct. 2023 - Dec. 2023\\
+* Project: **Dynamic Hybrid Vertical Federated Learning**
 
-* ***Research Engineering Intern***, <a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a> \\
-Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**\\
-May. 2023 – Aug. 2023
+***Research Engineering Intern*** \\
+<a href="https://www.docomoinnovations.com/" style="color: #009B8B; text-decoration: none;">**DOCOMO Innovations, Inc**</a> | May. 2023 – Aug. 2023\\
+* Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
 
-* ***Machine Learning Intern***, <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> \\
-Project: **Federated Learning Come Across With Label Noise Learning**\\
-Sep. 2019 - Jan. 2020
+***Machine Learning Intern*** \\
+<a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> | Sep. 2019 - Jan. 2020\\
+* Project: **Federated Learning Come Across With Label Noise Learning**
+
 
