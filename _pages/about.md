@@ -33,7 +33,7 @@ Education
 <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> | Sep. 2021 - Present\\
 Advisor: Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a> 
 
-**B.S.** in Electrical Engineering and Information Science\\
+**B.S.** in Electronic Engineering and Information Science\\
 <a href="https://eeis.ustc.edu.cn/main.htm" style="color: #009B8B; text-decoration: none;">**University of Science and Technology of China**</a> | Sep. 2015 - June. 2019
 
 Experience
