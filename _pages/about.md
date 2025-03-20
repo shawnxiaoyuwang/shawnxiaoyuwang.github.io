@@ -15,7 +15,7 @@ Publication
 (<span style="color:darkred">*conference*</span>, <span style="color: #3700FF">*journal*</span>, and * denotes equal contribution)
 - **Decentralized Federated Learning with Model Caching on Mobile Agents**\\
 <u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu \\
-<span style="color:darkred">**AAAI**</span> 2025, <span style="color:red">_Oral Presentation_</span> (acceptance = 600 / 12,957 = 4.6%), <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/ShawnXiaoyuWang/Cached-DFL" style="color: #009B8B; text-decoration: none;">[code]</a>  <a href="/files/Poster_Xiaoyu_Wang_V4.pdf" style="color: #009B8B; text-decoration: none;">[poster]</a> <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[News]</a> 
+<span style="color:darkred">**AAAI**</span> 2025, <span style="color:red">_Oral Presentation_</span> (acceptance = 600 / 12,957 = 4.6%), <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> <a href="https://github.com/ShawnXiaoyuWang/Cached-DFL" style="color: #009B8B; text-decoration: none;">[code]</a>  <a href="/files/Poster_Xiaoyu_Wang_V4.pdf" style="color: #009B8B; text-decoration: none;">[poster]</a> <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a> 
 
 - **Predictive Edge Caching through Deep Mining of Sequential Patterns in User Content Retrievals** \\
 Chen Li, <u>Xiaoyu Wang</u>, Tongyu Zong, Houwei Cao, Yong Liu \\
