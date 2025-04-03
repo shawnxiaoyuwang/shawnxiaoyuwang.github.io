@@ -35,10 +35,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=_e2LiGwAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-8340-6721"
+  dblp             : "https://dblp.org/pid/58/4775-15.html"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xiaoyu-Wang-238?ev=prf_overview"
   scopus           : # URL
 
   # Repositories and software development
