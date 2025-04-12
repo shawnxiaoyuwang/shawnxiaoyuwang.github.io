@@ -48,13 +48,11 @@ Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
 
 ***Machine Learning Intern*** \\
 <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> | Sep. 2019 - Jan. 2020\\
-Project: **Federated Learning Come Across With Label Noise Learning**
--->
-[News]
+Project: **Federated Learning Come Across With Label Noise Learning**-->
+
+News
 ------
 - **Feb 2025**: Our work **Decentralized Federated Learning with Model Caching on Mobile Agents** was interviewed by <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a>.
-
 - **Jan 2025**: Our paper **Decentralized Federated Learning with Model Caching on Mobile Agents** was accepted by AAAI-25 for **Oral Presentation**.
-
 - **Aug 2025**: Submitted one paper to AAAI-25.
 
