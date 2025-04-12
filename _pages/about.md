@@ -27,7 +27,7 @@ Chen Li, <u>Xiaoyu Wang</u>, Tongyu Zong, Houwei Cao, Yong Liu \\
 <a href="https://arxiv.org/abs/2408.14001" style="color: #009B8B; text-decoration: none;">[paper]</a> \\
 <u>Xiaoyu Wang</u>, Guojun Xiong, Houwei Cao, Jian Li, Yong Liu-->
 
-Education
+<!--Education
 ------
 **Ph.D.** in Electrical and Computer Engineering\\
 <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> | Sep. 2021 - Present\\
@@ -49,10 +49,12 @@ Project: **AWS-Sparse Vertical Federated Learning Platform and Hybrid VFL**
 ***Machine Learning Intern*** \\
 <a href="https://data-starcloud.pcl.ac.cn/" style="color: #009B8B; text-decoration: none;">**Peng Cheng Laboratory**</a> | Sep. 2019 - Jan. 2020\\
 Project: **Federated Learning Come Across With Label Noise Learning**
-
+-->
 [News]
 ------
-**<Feb 2025>**: Our work **Decentralized Federated Learning with Model Caching on Mobile Agents** was interviewed by <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a>.\\
-**<Jan 2025>**: Our paper **Decentralized Federated Learning with Model Caching on Mobile Agents** was accepted by AAAI-25 for **Oral Presentation**.\\
-**<Aug 2025>**: Submitted one paper to AAAI-25.
+**Feb 2025**: Our work **Decentralized Federated Learning with Model Caching on Mobile Agents** was interviewed by <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a>.
+
+**Jan 2025**: Our paper **Decentralized Federated Learning with Model Caching on Mobile Agents** was accepted by AAAI-25 for **Oral Presentation**.
+
+**Aug 2025**: Submitted one paper to AAAI-25.
 
