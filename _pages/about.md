@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m a fourth-year Ph.D. student in Electrical and Computer Engineering at <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> working in the <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> under the supervision of Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My research focuses on **Federated Learning**, **Multimodal Learning** as well as **Recommender Systems**.\\
-<span style="color:darkred">**I am currently seeking a summer 2025 internship. Feel free to reach out if you have any opportunities!**</span>
+<!--<span style="color:darkred">**I am currently seeking a summer 2025 internship. Feel free to reach out if you have any opportunities!**</span>
 
 Publication
 ------
@@ -52,6 +52,7 @@ Project: **Federated Learning Come Across With Label Noise Learning**-->
 
 News
 ------
+- **May 2025**: I am glad to receive **The Dante Youla Award for Graduate Research Excellence** for being the student who has made the most significant research contribution among all NYU ECE graduate students in the past year!
 - **Feb 2025**: Our work **Decentralized Federated Learning with Model Caching on Mobile Agents** was interviewed by <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a>.
 - **Jan 2025**: Our paper **Decentralized Federated Learning with Model Caching on Mobile Agents** was accepted by AAAI-25 for **Oral Presentation**.
 - **Aug 2024**: Submitted one paper to AAAI-25.
