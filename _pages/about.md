@@ -53,8 +53,9 @@ Project: **Federated Learning Come Across With Label Noise Learning**-->
 
 News
 ------
+- May 2025: I am glad that I am going to join **Amazon** as an **Applied Scientist** intern for this summer!
+- May 2025: Submitted two papers to NeurIPS 2025.
 - May 2025: I am glad to receive **The Dante Youla Award for Graduate Research Excellence** for being the student who has made the most significant research contribution among all NYU ECE graduate students in the past year!
-- Feb 2025: Our work **Decentralized Federated Learning with Model Caching on Mobile Agents** was interviewed by <a href="https://engineering.nyu.edu/news/self-driving-cars-learn-share-road-knowledge-through-digital-word-mouth" style="color: darkred; text-decoration: none;">[NYU News]</a>.
 - Jan 2025: Our paper **Decentralized Federated Learning with Model Caching on Mobile Agents** was accepted by AAAI-25 for **Oral Presentation**.
 - Aug 2024: Submitted one paper to AAAI-25.
 
