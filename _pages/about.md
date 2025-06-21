@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a fourth-year Ph.D. student in Electrical and Computer Engineering at <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> working in the <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> under the supervision of Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My research focuses on **Federated Learning**, **Multimodal Learning** as well as **Recommender Systems**.\\
+Hi! I’m a fourth-year Ph.D. student in Electrical and Computer Engineering at <a href="https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering" style="color: #009B8B; text-decoration: none;">**New York University**</a> working in the <a href="https://wireless.engineering.nyu.edu/" style="color: #009B8B; text-decoration: none;">**Wireless Lab**</a> under the supervision of Prof. <a href="https://wireless.engineering.nyu.edu/yong-liu/" style="color: #009B8B; text-decoration:none">**Yong Liu**</a>. My research focuses on **Federated Learning**, **Multimodal Learning** as well as **Recommender Systems**.
 
 <!--<span style="color:darkred">**I am currently seeking a summer 2025 internship. Feel free to reach out if you have any opportunities!**</span>-->
 
